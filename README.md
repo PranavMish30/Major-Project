@@ -49,5 +49,5 @@ This project implements an **indoor navigation system** that estimates the posit
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/indoor-navigation.git
-   cd indoor-navigation
+   git clone https://github.com/PranavMish30/Major-Project.git
+   cd Major-Project
